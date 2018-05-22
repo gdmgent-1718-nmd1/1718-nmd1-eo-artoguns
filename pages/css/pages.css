@@ -24,3 +24,14 @@ img {
 h1 {
     font-weight: bold;
 }
+
+p {
+    font-weight: lighter;
+    background-color: #CBFED1;
+}
+
+div {
+    background-color: #CBFED1;
+    margin: 20px 20px 0 0;
+}
+
