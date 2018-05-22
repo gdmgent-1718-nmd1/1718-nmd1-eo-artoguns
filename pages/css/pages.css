@@ -22,16 +22,23 @@ img {
 }
 
 h1 {
+    font-family: 'Oswald', sans-serif;
     font-weight: bold;
+    font-size: 300%;
+    text-transform: lowercase;
+    color: #637BD4;
 }
 
 p {
+    font-family: 'Oswald', sans-serif;
     font-weight: lighter;
+    margin: 20px 50px 20px 100px;
+    font-size: 120%;
 }
 
 body{
     background-color: #CBFED1;
-    margin: 100px 100px 0 0;
+    margin: 50px 0 0 50px;
 }
 
 
