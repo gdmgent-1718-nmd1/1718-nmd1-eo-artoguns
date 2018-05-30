@@ -29,6 +29,14 @@ h1 {
     color: #637BD4;
 }
 
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 100%;
+    text-transform: lowercase;
+    color: black;
+}
+
 p {
     font-family: 'Oswald', sans-serif;
     font-weight: lighter;
@@ -47,7 +55,9 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #E3E3E3;
-    float:left;
+
+    font-family: 'Oswald', sans-serif;
+    font-weight: lighter;
 }
 
 li {
@@ -55,6 +65,10 @@ li {
     text-align: center;
     padding: 16px;
     text-decoration: none;
+}
+
+.positief{
+    background-color: white;
 }
 
 
