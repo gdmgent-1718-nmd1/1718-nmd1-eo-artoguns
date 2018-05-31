@@ -86,5 +86,35 @@ a:hover{
     color: white;
 }
 
+.paars {
+    background-color: #637BD4;
+}
 
+.grijs {
+    background-color: #E3E3E3;
+}
+.groen {
+    background-color: #CBFED1;
+}
+.wit{
+    background-color: white;
+}
+.zwart{
+    background-color: black;
+    color: white;
+}
 
+h4{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 150%;
+    text-transform: uppercase;
+    color: #CBFED1;
+    background-color: white;
+    padding: 15px;
+    margin-right: 980px;
+}
+
+h4:hover{
+    background-color: #E3E3E3;
+}
